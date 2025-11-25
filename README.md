@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cyanid1x
 - 👀 I’m interested in coading
-- 🌱 I’m currently learning css
+- 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : dishantpipare@gmail.com
 - 😄 Pronouns: ...
